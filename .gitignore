@@ -1,3 +1,4 @@
+patches/
+.gitignore
+*.o
 st
-st.o
-x.o
